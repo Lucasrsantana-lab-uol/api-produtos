@@ -35,3 +35,7 @@ node server.js
 Acesse em seu navegador:
 
 http://localhost:8080/api/filmes
+
+
+
+Linha de teste para workflow de commits.
